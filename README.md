@@ -17,6 +17,9 @@
  - Python: >= 3.10.7
  - Terraform: >= 1.16.0
  - AWS-CLI: >= 2.13.21
+
+
+ © Gildas NG.
   
  
  
