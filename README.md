@@ -14,9 +14,9 @@
 # Technologien:
   Projekt wird erstellt mit:
 
- - Python: 3.10.7
- - Terraform: 1.16.0
- - AWS-CLI: 2.13.21
+ - Python: >= 3.10.7
+ - Terraform: >= 1.16.0
+ - AWS-CLI: >= 2.13.21
   
  
  
